@@ -1,0 +1,2 @@
+# jismi
+example golang skeleton

@@ -1,0 +1,25 @@
+settings:
+  legacy:
+    force: false
+    interval: 0s
+schema:
+- name: /home/fahmijufri/Documents/go/src/github.com/fahmijufri/jismi
+  path: /home/fahmijufri/Documents/go/src/github.com/fahmijufri/jismi
+  commands:
+    vet:
+      status: true
+    install:
+      status: true
+    build:
+      status: true
+    run:
+      status: true
+  watcher:
+    extensions:
+    - go
+    paths:
+    - /
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor

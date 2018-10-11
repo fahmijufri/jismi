@@ -1,2 +1,2 @@
 # Jismi
-Example golang skeleton with clean architecture
+Sample golang skeleton with clean architecture

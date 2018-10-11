@@ -16,3 +16,6 @@
 
 # binary
 jismi
+
+# Golang depedencies
+vendor/
